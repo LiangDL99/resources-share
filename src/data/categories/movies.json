@@ -1,0 +1,49 @@
+﻿{
+  "categoryId": "movies",
+  "categoryName": "影视资源",
+  "resources": [
+    {
+      "id": "movies-001",
+      "title": "2024热门电影合集",
+      "description": "2024年最新热门电影高清合集，包含国内外大片，支持多种分辨率下载。",
+      "uploadTime": "2024-01-05",
+      "screenshots": [
+        "https://picsum.photos/800/600?random=1101",
+        "https://picsum.photos/800/600?random=1102",
+        "https://picsum.photos/800/600?random=1103"
+      ],
+      "downloadUrl": "#",
+      "tags": ["电影", "高清", "合集"],
+      "size": "50GB",
+      "language": "中英双语"
+    },
+    {
+      "id": "movies-002",
+      "title": "经典电视剧合集",
+      "description": "100部经典电视剧，包含豆瓣高分剧集。",
+      "uploadTime": "2024-01-03",
+      "screenshots": [
+        "https://picsum.photos/800/600?random=1104",
+        "https://picsum.photos/800/600?random=1105"
+      ],
+      "downloadUrl": "#",
+      "tags": ["电视剧", "经典", "合集"],
+      "size": "80GB",
+      "language": "中文"
+    },
+    {
+      "id": "movies-003",
+      "title": "纪录片珍藏合集",
+      "description": "BBC、Discovery等高品质纪录片合集。",
+      "uploadTime": "2024-01-01",
+      "screenshots": [
+        "https://picsum.photos/800/600?random=1106",
+        "https://picsum.photos/800/600?random=1107"
+      ],
+      "downloadUrl": "#",
+      "tags": ["纪录片", "BBC", "Discovery"],
+      "size": "100GB",
+      "language": "中英双语"
+    }
+  ]
+}

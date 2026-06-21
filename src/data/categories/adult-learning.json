@@ -1,0 +1,49 @@
+﻿{
+  "categoryId": "adult-learning",
+  "categoryName": "成人学习资料",
+  "resources": [
+    {
+      "id": "adult-001",
+      "title": "职场英语进阶课程",
+      "description": "提升职场英语能力的进阶课程，包含商务谈判、邮件写作、会议沟通等实用内容。",
+      "uploadTime": "2024-01-03",
+      "screenshots": [
+        "https://picsum.photos/800/600?random=1301",
+        "https://picsum.photos/800/600?random=1302",
+        "https://picsum.photos/800/600?random=1303"
+      ],
+      "downloadUrl": "#",
+      "tags": ["英语", "职场", "进阶"],
+      "size": "4GB",
+      "language": "中英双语"
+    },
+    {
+      "id": "adult-002",
+      "title": "财务管理课程",
+      "description": "个人和家庭财务管理课程，包含投资理财、税务规划等内容。",
+      "uploadTime": "2024-01-01",
+      "screenshots": [
+        "https://picsum.photos/800/600?random=1304",
+        "https://picsum.photos/800/600?random=1305"
+      ],
+      "downloadUrl": "#",
+      "tags": ["财务", "理财", "投资"],
+      "size": "3GB",
+      "language": "中文"
+    },
+    {
+      "id": "adult-003",
+      "title": "演讲与口才训练",
+      "description": "提升演讲能力和口才表达的系统训练课程。",
+      "uploadTime": "2023-12-28",
+      "screenshots": [
+        "https://picsum.photos/800/600?random=1306",
+        "https://picsum.photos/800/600?random=1307"
+      ],
+      "downloadUrl": "#",
+      "tags": ["演讲", "口才", "沟通"],
+      "size": "2GB",
+      "language": "中文"
+    }
+  ]
+}

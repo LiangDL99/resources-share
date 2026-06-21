@@ -1,0 +1,49 @@
+﻿{
+  "categoryId": "e-books",
+  "categoryName": "电子书",
+  "resources": [
+    {
+      "id": "ebook-001",
+      "title": "畅销小说合集",
+      "description": "500本畅销小说电子版，包含玄幻、都市、言情等多种题材，支持多种阅读格式。",
+      "uploadTime": "2024-01-06",
+      "screenshots": [
+        "https://picsum.photos/800/600?random=1001",
+        "https://picsum.photos/800/600?random=1002",
+        "https://picsum.photos/800/600?random=1003"
+      ],
+      "downloadUrl": "#",
+      "tags": ["小说", "电子书", "合集"],
+      "size": "8GB",
+      "language": "中文"
+    },
+    {
+      "id": "ebook-002",
+      "title": "管理学经典书籍",
+      "description": "100本管理学经典著作，包含德鲁克、彼得圣吉等大师作品。",
+      "uploadTime": "2024-01-03",
+      "screenshots": [
+        "https://picsum.photos/800/600?random=1004",
+        "https://picsum.photos/800/600?random=1005"
+      ],
+      "downloadUrl": "#",
+      "tags": ["管理", "商业", "经典"],
+      "size": "3GB",
+      "language": "中文"
+    },
+    {
+      "id": "ebook-003",
+      "title": "心理学入门书籍",
+      "description": "50本心理学入门书籍，适合心理学爱好者阅读。",
+      "uploadTime": "2024-01-01",
+      "screenshots": [
+        "https://picsum.photos/800/600?random=1006",
+        "https://picsum.photos/800/600?random=1007"
+      ],
+      "downloadUrl": "#",
+      "tags": ["心理学", "入门", "自我提升"],
+      "size": "2GB",
+      "language": "中文"
+    }
+  ]
+}

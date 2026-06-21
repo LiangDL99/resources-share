@@ -1,0 +1,17 @@
+﻿{
+  "categories": [
+    {"id": "software", "name": "软件工具", "icon": "", "description": "各类实用软件、工具、应用程序"},
+    {"id": "images", "name": "图片资源", "icon": "", "description": "高清图片、壁纸、设计素材"},
+    {"id": "kids-learning", "name": "儿童学习资料", "icon": "", "description": "儿童教育、启蒙学习资料"},
+    {"id": "music", "name": "音乐资源", "icon": "", "description": "音乐专辑、单曲、音效素材"},
+    {"id": "snacks", "name": "小吃资源", "icon": "", "description": "小吃配方、美食制作教程"},
+    {"id": "fitness", "name": "健身-瑜伽-太极", "icon": "", "description": "健身教程、瑜伽视频、太极教学"},
+    {"id": "side-hustle", "name": "互联网副业项目", "icon": "", "description": "互联网创业项目、副业机会"},
+    {"id": "mobile-games", "name": "手机游戏", "icon": "", "description": "手机游戏资源"},
+    {"id": "ancient-books", "name": "古籍", "icon": "", "description": "古籍文献、历史资料"},
+    {"id": "e-books", "name": "电子书", "icon": "", "description": "各类电子书籍、PDF资料"},
+    {"id": "movies", "name": "影视资源", "icon": "", "description": "电影、电视剧、纪录片"},
+    {"id": "tech-tutorials", "name": "计算机专业技能教程", "icon": "", "description": "编程、开发、技术教程"},
+    {"id": "adult-learning", "name": "成人学习资料", "icon": "", "description": "成人教育、职业培训资料"}
+  ]
+}

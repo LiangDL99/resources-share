@@ -1,0 +1,49 @@
+﻿{
+  "categoryId": "side-hustle",
+  "categoryName": "互联网副业项目",
+  "resources": [
+    {
+      "id": "side-001",
+      "title": "抖音短视频运营教程",
+      "description": "从零开始学习抖音运营，包含内容创作、粉丝增长、变现方法等完整课程。",
+      "uploadTime": "2024-01-09",
+      "screenshots": [
+        "https://picsum.photos/800/600?random=701",
+        "https://picsum.photos/800/600?random=702",
+        "https://picsum.photos/800/600?random=703"
+      ],
+      "downloadUrl": "#",
+      "tags": ["副业", "抖音", "运营"],
+      "size": "3GB",
+      "language": "中文"
+    },
+    {
+      "id": "side-002",
+      "title": "闲鱼无货源电商教程",
+      "description": "闲鱼电商运营完整教程，从选品到发货全流程。",
+      "uploadTime": "2024-01-07",
+      "screenshots": [
+        "https://picsum.photos/800/600?random=704",
+        "https://picsum.photos/800/600?random=705"
+      ],
+      "downloadUrl": "#",
+      "tags": ["电商", "闲鱼", "副业"],
+      "size": "2GB",
+      "language": "中文"
+    },
+    {
+      "id": "side-003",
+      "title": "自媒体写作变现课程",
+      "description": "通过写作实现副业收入的完整指南。",
+      "uploadTime": "2024-01-05",
+      "screenshots": [
+        "https://picsum.photos/800/600?random=706",
+        "https://picsum.photos/800/600?random=707"
+      ],
+      "downloadUrl": "#",
+      "tags": ["自媒体", "写作", "变现"],
+      "size": "1.5GB",
+      "language": "中文"
+    }
+  ]
+}

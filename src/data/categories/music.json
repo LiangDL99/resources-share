@@ -1,0 +1,49 @@
+﻿{
+  "categoryId": "music",
+  "categoryName": "音乐资源",
+  "resources": [
+    {
+      "id": "music-001",
+      "title": "周杰伦全部专辑合集",
+      "description": "周杰伦出道以来所有专辑的高品质无损音乐合集，包含15张专辑共180首歌曲。",
+      "uploadTime": "2024-01-12",
+      "screenshots": [
+        "https://picsum.photos/800/600?random=401",
+        "https://picsum.photos/800/600?random=402",
+        "https://picsum.photos/800/600?random=403"
+      ],
+      "downloadUrl": "#",
+      "tags": ["华语流行", "无损音乐", "周杰伦"],
+      "size": "12GB",
+      "language": "中文"
+    },
+    {
+      "id": "music-002",
+      "title": "古典音乐珍藏合集",
+      "description": "贝多芬、莫扎特等大师经典作品合集，FLAC无损格式。",
+      "uploadTime": "2024-01-08",
+      "screenshots": [
+        "https://picsum.photos/800/600?random=404",
+        "https://picsum.photos/800/600?random=405"
+      ],
+      "downloadUrl": "#",
+      "tags": ["古典", "无损", "大师"],
+      "size": "15GB",
+      "language": "纯音乐"
+    },
+    {
+      "id": "music-003",
+      "title": "无损音效素材库",
+      "description": "10000+高品质音效素材，适合视频制作、游戏开发使用。",
+      "uploadTime": "2024-01-06",
+      "screenshots": [
+        "https://picsum.photos/800/600?random=406",
+        "https://picsum.photos/800/600?random=407"
+      ],
+      "downloadUrl": "#",
+      "tags": ["音效", "素材", "无损"],
+      "size": "20GB",
+      "language": "多语言"
+    }
+  ]
+}

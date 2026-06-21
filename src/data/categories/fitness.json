@@ -1,0 +1,49 @@
+﻿{
+  "categoryId": "fitness",
+  "categoryName": "健身-瑜伽-太极",
+  "resources": [
+    {
+      "id": "fitness-001",
+      "title": "零基础瑜伽入门教程",
+      "description": "适合初学者的瑜伽入门课程，包含基础体式讲解和呼吸练习，改善体态和健康。",
+      "uploadTime": "2024-01-10",
+      "screenshots": [
+        "https://picsum.photos/800/600?random=601",
+        "https://picsum.photos/800/600?random=602",
+        "https://picsum.photos/800/600?random=603"
+      ],
+      "downloadUrl": "#",
+      "tags": ["瑜伽", "健身", "入门"],
+      "size": "5GB",
+      "language": "中文"
+    },
+    {
+      "id": "fitness-002",
+      "title": "健身增肌教程",
+      "description": "专业健身教练讲解的增肌训练计划，包含饮食建议。",
+      "uploadTime": "2024-01-06",
+      "screenshots": [
+        "https://picsum.photos/800/600?random=604",
+        "https://picsum.photos/800/600?random=605"
+      ],
+      "downloadUrl": "#",
+      "tags": ["健身", "增肌", "训练"],
+      "size": "8GB",
+      "language": "中文"
+    },
+    {
+      "id": "fitness-003",
+      "title": "太极拳教学视频",
+      "description": "陈式太极拳完整教学，从基础到精通。",
+      "uploadTime": "2024-01-04",
+      "screenshots": [
+        "https://picsum.photos/800/600?random=606",
+        "https://picsum.photos/800/600?random=607"
+      ],
+      "downloadUrl": "#",
+      "tags": ["太极", "武术", "养生"],
+      "size": "6GB",
+      "language": "中文"
+    }
+  ]
+}

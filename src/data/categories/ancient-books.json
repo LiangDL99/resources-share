@@ -1,0 +1,49 @@
+﻿{
+  "categoryId": "ancient-books",
+  "categoryName": "古籍",
+  "resources": [
+    {
+      "id": "ancient-001",
+      "title": "四库全书电子版",
+      "description": "中国古代最大的丛书《四库全书》完整电子版，包含经史子集四部共3461种书。",
+      "uploadTime": "2024-01-07",
+      "screenshots": [
+        "https://picsum.photos/800/600?random=901",
+        "https://picsum.photos/800/600?random=902",
+        "https://picsum.photos/800/600?random=903"
+      ],
+      "downloadUrl": "#",
+      "tags": ["古籍", "历史", "文献"],
+      "size": "20GB",
+      "language": "中文"
+    },
+    {
+      "id": "ancient-002",
+      "title": "资治通鉴全文",
+      "description": "司马光主编的编年体通史，完整294卷电子版。",
+      "uploadTime": "2024-01-04",
+      "screenshots": [
+        "https://picsum.photos/800/600?random=904",
+        "https://picsum.photos/800/600?random=905"
+      ],
+      "downloadUrl": "#",
+      "tags": ["古籍", "历史", "资治通鉴"],
+      "size": "5GB",
+      "language": "中文"
+    },
+    {
+      "id": "ancient-003",
+      "title": "红楼梦珍藏版",
+      "description": "红楼梦多个版本合集，包含脂批本等多个版本。",
+      "uploadTime": "2024-01-02",
+      "screenshots": [
+        "https://picsum.photos/800/600?random=906",
+        "https://picsum.photos/800/600?random=907"
+      ],
+      "downloadUrl": "#",
+      "tags": ["红楼梦", "古典文学", "四大名著"],
+      "size": "2GB",
+      "language": "中文"
+    }
+  ]
+}

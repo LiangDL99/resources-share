@@ -1,0 +1,35 @@
+﻿{
+  "categoryId": "snacks",
+  "categoryName": "小吃资源",
+  "resources": [
+    {
+      "id": "snacks-001",
+      "title": "网红小吃配方大全",
+      "description": "100+种网红小吃制作配方，包含详细步骤和视频教程，适合在家自制。",
+      "uploadTime": "2024-01-11",
+      "screenshots": [
+        "https://picsum.photos/800/600?random=501",
+        "https://picsum.photos/800/600?random=502",
+        "https://picsum.photos/800/600?random=503"
+      ],
+      "downloadUrl": "#",
+      "tags": ["美食", "小吃", "配方"],
+      "size": "2GB",
+      "language": "中文"
+    },
+    {
+      "id": "snacks-002",
+      "title": "烘焙甜点教程",
+      "description": "从入门到精通的烘焙教程，包含蛋糕、面包、饼干等制作方法。",
+      "uploadTime": "2024-01-07",
+      "screenshots": [
+        "https://picsum.photos/800/600?random=504",
+        "https://picsum.photos/800/600?random=505"
+      ],
+      "downloadUrl": "#",
+      "tags": ["烘焙", "甜点", "教程"],
+      "size": "3GB",
+      "language": "中文"
+    }
+  ]
+}
