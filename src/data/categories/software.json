@@ -1,65 +1,16 @@
 ﻿{
-  "categoryId": "software",
-  "categoryName": "软件工具",
   "resources": [
-    {
-      "id": "software-001",
-      "title": "Photoshop 2024 破解版",
-      "description": "Adobe Photoshop 2024 完整破解版，支持所有功能，无需激活即可使用。包含最新AI功能，支持生成式填充等特性。",
-      "uploadTime": "2024-01-15",
-      "screenshots": [
-        "https://picsum.photos/800/600?random=101",
-        "https://picsum.photos/800/600?random=102",
-        "https://picsum.photos/800/600?random=103",
-        "https://picsum.photos/800/600?random=104"
-      ],
-      "downloadUrl": "#",
-      "tags": ["图像处理", "设计工具", "破解版"],
-      "size": "2.5GB",
-      "language": "中文"
-    },
-    {
-      "id": "software-002",
-      "title": "Visual Studio Code 插件合集",
-      "description": "精选100+个实用VS Code插件，提升开发效率和编码体验。",
-      "uploadTime": "2024-01-02",
-      "screenshots": [
-        "https://picsum.photos/800/600?random=105",
-        "https://picsum.photos/800/600?random=106"
-      ],
-      "downloadUrl": "#",
-      "tags": ["开发工具", "VSCode", "插件"],
-      "size": "500MB",
-      "language": "中文"
-    },
-    {
-      "id": "software-003",
-      "title": "PPT模板精品合集",
-      "description": "500+套精美PPT模板，包含商务、学术、汇报等多种场景，可直接使用。",
-      "uploadTime": "2024-01-01",
-      "screenshots": [
-        "https://picsum.photos/800/600?random=107",
-        "https://picsum.photos/800/600?random=108",
-        "https://picsum.photos/800/600?random=109"
-      ],
-      "downloadUrl": "#",
-      "tags": ["PPT", "模板", "商务"],
-      "size": "3GB",
-      "language": "中文"
-    },
-    {
-      "id": "software-004",
-      "title": "Premiere Pro 2024 视频编辑",
-      "description": "Adobe Premiere Pro 2024 专业视频编辑软件，完整功能解锁。",
-      "uploadTime": "2023-12-28",
-      "screenshots": [
-        "https://picsum.photos/800/600?random=110",
-        "https://picsum.photos/800/600?random=111"
-      ],
-      "downloadUrl": "#",
-      "tags": ["视频编辑", "Premiere", "影视"],
-      "size": "4GB",
-      "language": "中文"
-    }
+    "通过网盘分享的文件：Photoshop 2024 安装包.zip\n链接: `https://pan.baidu.com/s/2b3c4d5e6f7g8h9i0j1k?pwd=wxyz` 提取码: wxyz",
+    "通过网盘分享的文件：VS Code 便携版.zip\n链接: `https://pan.baidu.com/s/8h9i0j1k2l3m4n5o6p7q?pwd=klmn` 提取码: klmn",
+    "通过网盘分享的文件：剧本写作规范-基本格式.pptx\n链接: https://pan.baidu.com/s/1lsxUUBI6yArdVdpqzhjGKg?pwd=svus 提取码: svus",
+    "通过网盘分享的文件：Photoshop 2024 安装包.zip\n链接: `https://pan.baidu.com/s/2b3c4d5e6f7g8h9i0j1k?pwd=wxyz` 提取码: wxyz",
+    "通过网盘分享的文件：VS Code 便携版.zip\n链接: `https://pan.baidu.com/s/8h9i0j1k2l3m4n5o6p7q?pwd=klmn` 提取码: klmn",
+    "通过网盘分享的文件：剧本写作规范-基本格式.pptx\n链接: https://pan.baidu.com/s/1lsxUUBI6yArdVdpqzhjGKg?pwd=svus 提取码: svus",
+    "通过网盘分享的文件：Photoshop 2024 安装包.zip\n链接: `https://pan.baidu.com/s/2b3c4d5e6f7g8h9i0j1k?pwd=wxyz` 提取码: wxyz",
+    "通过网盘分享的文件：VS Code 便携版.zip\n链接: `https://pan.baidu.com/s/8h9i0j1k2l3m4n5o6p7q?pwd=klmn` 提取码: klmn",
+    "通过网盘分享的文件：剧本写作规范-基本格式.pptx\n链接: https://pan.baidu.com/s/1lsxUUBI6yArdVdpqzhjGKg?pwd=svus 提取码: svus",
+    "通过网盘分享的文件：Photoshop 2024 安装包.zip\n链接: `https://pan.baidu.com/s/2b3c4d5e6f7g8h9i0j1k?pwd=wxyz` 提取码: wxyz",
+    "通过网盘分享的文件：VS Code 便携版.zip\n链接: `https://pan.baidu.com/s/8h9i0j1k2l3m4n5o6p7q?pwd=klmn` 提取码: klmn",
+    "通过网盘分享的文件：剧本写作规范-基本格式.pptx\n链接: https://pan.baidu.com/s/1lsxUUBI6yArdVdpqzhjGKg?pwd=svus 提取码: svus"
   ]
 }
